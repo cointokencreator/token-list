@@ -74433,6 +74433,26 @@
         "social-token"
       ]
     }
+    {
+      "chainId": 101,
+      "address": "6eVPU4jz3NzHGt54KkXx884aPp3oTqgMF9dWopTzB5Ev",
+      "symbol": "AMELOCOIN",
+      "name": "Amelocoin",
+      "decimals": 4,
+      "logoURI": "https://i.ibb.co/DVGDL7d/png-red-coin.png",
+      "tags": [
+        "art"
+        "music-token"
+        "change-the-world"
+        "charity"
+        "amelo"
+        "gold medalist"  
+        "melo"
+        "alexmelo"
+      ],
+      "extensions": {
+                "website": "https://www.amelocoin.com"
+      }
   ],
   "version": {
     "major": 0,
